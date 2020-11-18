@@ -1,0 +1,11 @@
+C:\VS2019\Cap04\slnApp\App.Entities\bin\Debug\App.Entities.dll
+C:\VS2019\Cap04\slnApp\App.Entities\bin\Debug\App.Entities.pdb
+C:\VS2019\Cap04\slnApp\App.Entities\obj\Debug\App.Entities.csprojAssemblyReference.cache
+C:\VS2019\Cap04\slnApp\App.Entities\obj\Debug\App.Entities.csproj.CoreCompileInputs.cache
+C:\VS2019\Cap04\slnApp\App.Entities\obj\Debug\App.Entities.dll
+C:\VS2019\Cap04\slnApp\App.Entities\obj\Debug\App.Entities.pdb
+C:\jtg\github\vs2019Cibertec2020\Cap04\slnApp\App.Entities\bin\Debug\App.Entities.dll
+C:\jtg\github\vs2019Cibertec2020\Cap04\slnApp\App.Entities\bin\Debug\App.Entities.pdb
+C:\jtg\github\vs2019Cibertec2020\Cap04\slnApp\App.Entities\obj\Debug\App.Entities.csproj.CoreCompileInputs.cache
+C:\jtg\github\vs2019Cibertec2020\Cap04\slnApp\App.Entities\obj\Debug\App.Entities.dll
+C:\jtg\github\vs2019Cibertec2020\Cap04\slnApp\App.Entities\obj\Debug\App.Entities.pdb
